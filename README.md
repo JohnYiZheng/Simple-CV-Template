@@ -1,2 +1,2 @@
-# cv
-personal website
+# Simple html personal website template
+
